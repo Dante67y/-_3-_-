@@ -41,3 +41,14 @@ Esc
 Esc
 :wq
 ```
+
+## Как удалить файл
+### Windows
+```sh
+del file_name
+```
+
+### MacOs/Linux
+```sh
+rm file_name
+```
