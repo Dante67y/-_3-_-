@@ -23,3 +23,7 @@
 Let's dance!
 
 ![Dante](Dante.jpg)
+
+## WEB-ссылки
+
+Даже дьявом может плакать. Озвучил Cuba77 [https://video.sibnet.ru/video1276689-Devil_May_Cry__01_of_12___Cuba77_/](Devil May Cry)
