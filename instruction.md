@@ -26,4 +26,4 @@ Let's dance!
 
 ## WEB-ссылки
 
-Даже дьявом может плакать. Озвучил Cuba77 [https://video.sibnet.ru/video1276689-Devil_May_Cry__01_of_12___Cuba77_/](Devil May Cry)
+Даже дьявом может плакать. Озвучил Cuba77 [Devil May Cry](https://video.sibnet.ru/video1276689-Devil_May_Cry__01_of_12___Cuba77_/ "Devil May Cry/Cuba77/")
